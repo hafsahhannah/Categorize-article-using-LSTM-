@@ -1,10 +1,10 @@
-# Categorize article using LSTM 
- Categorize unseen  articles into 5 categories namely Sport, Tech, Business, Entertainment and  Politics. 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)<br>
 
-<br>
+# Categorize article using LSTM 
+ Categorize unseen  articles into 5 categories namely Sport, Tech, Business, Entertainment and  Politics. <br>
+
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
